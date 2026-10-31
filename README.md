@@ -1,6 +1,7 @@
 # Coach Directory
 
-A React app to search and view coaches from the API.
+A React app to search and view coaches from the API. 
+Demo Link :  https://find-coach-lilac.vercel.app/
 
 How to run:
 
